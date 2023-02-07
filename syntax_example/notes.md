@@ -2,10 +2,10 @@
 <h1>B Programming Lanuage (Temporary name)</h1>
 </div>
 
-C syntax features in B:
-Create variable and functions with data-types
-Use of semi-colons ; for end of code.
-Everything is public if you import its file. (no private/public code)
+- C syntax features in B:
+- Create variable and functions with data-types
+- Use of semi-colons ; for end of code.
+- Everything is public if you import its file. (no private/public code)
 
 # Import libs:
 ```
